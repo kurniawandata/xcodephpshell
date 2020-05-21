@@ -5,7 +5,7 @@ PHP Shell untuk remote Web Server
 
 Fungsi
 ------
-PHP Shell untuk remote Web Server
+PHP Shell untuk remote shell Web Server, upload dan sebagainya
 
 
 Informasi
