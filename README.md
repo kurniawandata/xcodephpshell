@@ -1,5 +1,5 @@
 # X-code PHP Shell v0.1 for Ethical Hacking
-PHP Shell untuk remote Web Server
+PHP Shell untuk remote shell Web Server, upload dan sebagainya
 
 ![alt text](http://xcode.or.id/04_small-logo.png)
 
