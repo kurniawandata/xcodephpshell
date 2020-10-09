@@ -68,7 +68,7 @@ body {
 <body>
 	<div class="home">
 	<header>
-		<h1 class="title">X-code PHP Shell v0.2/h1>
+		<h1> class="title">X-code PHP Shell v0.2</h1>
 		<p>For Ethicial Hacking</p><br>
 	</header>
 	<p>
