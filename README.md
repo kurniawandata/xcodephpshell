@@ -16,7 +16,7 @@ Progammer
 ------- 
 
 Progammer : Kurniawan - xcode.or.id
-
+Kurniawan. E-mail : kurniawan@securityhub.id
 
 Licensi
 ------- 
