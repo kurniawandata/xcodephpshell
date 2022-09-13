@@ -84,7 +84,6 @@ body {
 	</p>
 <?php
 if (empty($_REQUEST)) {
-	echo '<img src="https://camo.githubusercontent.com/7677d5854ed80ca9d724e1050bbe57d861f575e5/687474703a2f2f78636f64657365727665722e6d792e69642f676f666f6f642e706e67" alt="Donasi Gopay Kurniawan">';
 	echo '<br>';
 	echo '<a href="https://xcode.or.id">Dibuat Oleh Kurniawan X-code</a>';
 } 
