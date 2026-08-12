@@ -9,8 +9,6 @@ PHP Shell untuk remote shell Web Server, upload dan sebagainya (Support PHP5, PH
 
 DAFTAR FITUR X-SHELL PRO v2.0
 xcodephpshellv2.php
-Share
-X-code PHP Shell yang dikembangkan selama 6 tahun. Support PHP 8.
 
 Progammer awal:
 @kurniawandata
