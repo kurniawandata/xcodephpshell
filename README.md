@@ -63,7 +63,6 @@ Fitur Utama:
     ✅ Custom IP Address - Masukkan IP tujuan
     ✅ Custom Port - Masukkan port (default 1337)
     ✅ Start Reverse Shell - Tombol untuk memulai
-
 Informasi yang Ditampilkan:
     ✅ IP dan port tujuan
     ✅ Listener command (nc -lvnp [port])
@@ -76,12 +75,10 @@ Tampilan:
     ✅ Responsive - Mobile & Desktop friendly
     ✅ Animasi - Hover effects, pulse animation
     ✅ Font Awesome Icons - Icon untuk setiap menu
-
 Navigasi:
     ✅ Navbar Sticky - Tetap di atas saat scroll
     ✅ Active Menu - Menu aktif ditandai
     ✅ Logo - X-Code logo dengan hover effect
-
 Komponen:
     ✅ Card design dengan shadow
     ✅ Terminal style output
@@ -134,13 +131,9 @@ Kurniawan. E-mail : kurniawanajazenfone@gmail.com
 Licensi
 ------- 
 
-GNU General Public License v3
+GNU General Public License v2
 
 
-Donasi :
---------
-
-Donasi untuk Kurniawan telah berkontribusi sebagai pengembang free software & open source dalam bentuk gopay<br />
 
  <img src="https://xcode.co.id/qrcodex2.png" alt="gopay"> <br />
  Gopay (Customer)
