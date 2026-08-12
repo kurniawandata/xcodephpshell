@@ -7,8 +7,8 @@ Fungsi
 ------
 PHP Shell untuk remote shell Web Server, upload dan sebagainya (Support PHP5, PHP7 dan PHP8)
 
-
 DAFTAR FITUR X-SHELL PRO v2.0
+xcodephpshellv2.php
 
 🏠 1. HOME (Dashboard)
 Informasi Sistem:
@@ -134,6 +134,3 @@ Licensi
 GNU General Public License v2
 
 
-
- <img src="https://xcode.co.id/qrcodex2.png" alt="gopay"> <br />
- Gopay (Customer)
